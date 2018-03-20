@@ -3,6 +3,7 @@
 ## Ray-tracing algorithm
 An implementation of the algorithm in pseudocode:
 
+  '''
   for (int j = 0; j < imageHeight; ++j){
     for (int i = 0; i < imageWidth; ++i) {
       // compute primary ray direction
@@ -40,6 +41,7 @@ An implementation of the algorithm in pseudocode:
         pixels[i][j] = 0;
     }
   }
+  '''
 
 ## Reference
 * [Learn Computer Gracphics from scratch](https://www.scratchapixel.com/index.php?redirect) 
