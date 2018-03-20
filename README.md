@@ -1,6 +1,6 @@
 # Computer Graphics 計算機圖學
 
-## Ray-tracing algorithm
+## Ray-tracing Algorithm
 An implementation of the algorithm in pseudocode:
 
   ```
