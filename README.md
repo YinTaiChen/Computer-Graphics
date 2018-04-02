@@ -1,5 +1,9 @@
 # Computer Graphics 計算機圖學
 
+## Tools
+* [CMake](https://cmake.org/download/)
+* [GLFW](http://www.glfw.org/download.html)
+
 ## Reference
 * [Learn Computer Gracphics from scratch](https://www.scratchapixel.com/index.php?redirect) 
 * [LearnOpenGL-CN](https://learnopengl-cn.github.io/)
