@@ -4,3 +4,4 @@
 * [Learn Computer Gracphics from scratch](https://www.scratchapixel.com/index.php?redirect) 
 * [LearnOpenGL-CN](https://learnopengl-cn.github.io/)
 * [opengl-tutorial](http://www.opengl-tutorial.org/)
+* [Physically Based Rendering : From Theory to Implementation](https://www.tenlong.com.tw/products/9780128006450)
