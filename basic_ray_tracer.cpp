@@ -1,6 +1,6 @@
 // how to compile:
-// c++ -o hw1 hw1.cpp -std=c++11
-// Author: ³¯­N®õ 
+// c++ -o basic_ray_tracer basic_ray_tracer.cpp -std=c++11
+// Author: YinTaiChen 
 
 #include <cstdlib>
 #include <cstdio>
