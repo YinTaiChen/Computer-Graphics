@@ -2,6 +2,7 @@
 
 ## Source Code
 * [Basic Ray Tracer](https://github.com/YinTaiChen/Computer-Graphics/blob/master/basic_ray_tracer.cpp)
+
 ![scene_01.jpg](https://github.com/YinTaiChen/Computer-Graphics/blob/master/image/scene_01.jpg)
 
 ## Tools
