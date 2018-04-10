@@ -1,6 +1,6 @@
 // how to compile:
 // c++ -o hw1 hw1.cpp -std=c++11
-// Author: ³¯­N®õ 
+// Author: Â³Â¯Â­NÂ®Ãµ 
 
 #include <cstdlib>
 #include <cstdio>
@@ -515,7 +515,7 @@ int main(int argc, char **argv)
 	
 	string line;
 	
-	ifstream myfile("example.txt");
+	ifstream myfile("scene_setting_01.txt");
 	if (myfile.is_open())
 	{
 		while ( getline(myfile, line))
